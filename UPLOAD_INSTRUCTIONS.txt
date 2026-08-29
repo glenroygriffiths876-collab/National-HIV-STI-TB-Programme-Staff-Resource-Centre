@@ -1,0 +1,5 @@
+VERSION 1 UPDATE
+
+Only index.html changed.
+
+GitHub: open the repository ROOT (the page where index.html and the manuals folder are visible) -> Add file -> Upload files -> drag ONLY this new index.html -> Commit changes. Do not delete or re-upload the manuals folder.
