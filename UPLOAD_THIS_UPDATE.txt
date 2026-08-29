@@ -1,0 +1,18 @@
+VERSION 1 — GITHUB UPDATE
+
+Only index.html changed in this update.
+DO NOT re-upload the manuals folder.
+
+On GitHub, from the ROOT of the repository (the page where index.html and the manuals folder are visible):
+1. Add file > Upload files.
+2. Upload ONLY the new index.html from this folder.
+3. Confirm GitHub shows index.html as changed/replaced.
+4. Commit directly to the same branch used by GitHub Pages (normally main).
+5. Wait 1–3 minutes, then hard-refresh the live site.
+
+Expected visible changes:
+- Gold proposal/sample notice at the very top.
+- Stronger proposal disclaimer in the footer.
+- Animated MOHW Website, Facebook, Instagram, X, YouTube and TikTok icons.
+
+The manuals folder is unchanged and should be left exactly where it is.
