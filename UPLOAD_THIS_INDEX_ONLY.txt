@@ -1,0 +1,10 @@
+IMPORTANT
+
+1. Extract this ZIP to a NEW folder.
+2. Upload ONLY the file named exactly: index.html
+3. Upload it to the ROOT of your GitHub repository (same place where the PDFs currently are).
+4. It must REPLACE the existing index.html.
+5. Do NOT upload any file whose name begins index( or index2026...
+6. Do NOT re-upload the PDFs. They are already in the repository root.
+
+This corrected index.html points to the PDFs in the repository ROOT because GitHub stored them there, not in a manuals/ folder.
