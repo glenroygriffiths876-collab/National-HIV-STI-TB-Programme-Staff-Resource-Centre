@@ -1,4 +1,4 @@
-/* WRHA Manual & Resource Hub — source-linked catalogue. Version verification is ongoing. */
+/* WRHA Manual & Resource Hub — public-source records. Facility coverage incomplete. */
 window.WRHA_DATA={
   "manuals": [
     {
@@ -1333,7 +1333,7 @@ window.WRHA_DATA={
       "address": "",
       "source": "https://www.moh.gov.jm/health-centre-dental-services/",
       "locationVerified": false,
-      "scope": "MOHW dental-services list — not exhaustive"
+      "scope": "MOHW combined Kingston & St Andrew dental-services facility list; individual parish attribution requires confirmation"
     },
     {
       "id": "f-80",
@@ -1345,7 +1345,7 @@ window.WRHA_DATA={
       "address": "",
       "source": "https://www.moh.gov.jm/health-centre-dental-services/",
       "locationVerified": false,
-      "scope": "MOHW dental-services list — not exhaustive"
+      "scope": "MOHW combined Kingston & St Andrew dental-services facility list; individual parish attribution requires confirmation"
     },
     {
       "id": "f-81",
@@ -1357,7 +1357,7 @@ window.WRHA_DATA={
       "address": "",
       "source": "https://www.moh.gov.jm/health-centre-dental-services/",
       "locationVerified": false,
-      "scope": "MOHW dental-services list — not exhaustive"
+      "scope": "MOHW combined Kingston & St Andrew dental-services facility list; individual parish attribution requires confirmation"
     },
     {
       "id": "f-82",
@@ -1369,7 +1369,7 @@ window.WRHA_DATA={
       "address": "",
       "source": "https://www.moh.gov.jm/health-centre-dental-services/",
       "locationVerified": false,
-      "scope": "MOHW dental-services list — not exhaustive"
+      "scope": "MOHW combined Kingston & St Andrew dental-services facility list; individual parish attribution requires confirmation"
     },
     {
       "id": "f-83",
@@ -1381,7 +1381,7 @@ window.WRHA_DATA={
       "address": "",
       "source": "https://www.moh.gov.jm/health-centre-dental-services/",
       "locationVerified": false,
-      "scope": "MOHW dental-services list — not exhaustive"
+      "scope": "MOHW combined Kingston & St Andrew dental-services facility list; individual parish attribution requires confirmation"
     },
     {
       "id": "f-84",
@@ -1393,7 +1393,7 @@ window.WRHA_DATA={
       "address": "",
       "source": "https://www.moh.gov.jm/health-centre-dental-services/",
       "locationVerified": false,
-      "scope": "MOHW dental-services list — not exhaustive"
+      "scope": "MOHW combined Kingston & St Andrew dental-services facility list; individual parish attribution requires confirmation"
     },
     {
       "id": "f-85",
@@ -1405,7 +1405,7 @@ window.WRHA_DATA={
       "address": "",
       "source": "https://www.moh.gov.jm/health-centre-dental-services/",
       "locationVerified": false,
-      "scope": "MOHW dental-services list — not exhaustive"
+      "scope": "MOHW combined Kingston & St Andrew dental-services facility list; individual parish attribution requires confirmation"
     },
     {
       "id": "f-86",
@@ -1417,7 +1417,7 @@ window.WRHA_DATA={
       "address": "",
       "source": "https://www.moh.gov.jm/health-centre-dental-services/",
       "locationVerified": false,
-      "scope": "MOHW dental-services list — not exhaustive"
+      "scope": "MOHW combined Kingston & St Andrew dental-services facility list; individual parish attribution requires confirmation"
     },
     {
       "id": "f-87",
@@ -1429,7 +1429,7 @@ window.WRHA_DATA={
       "address": "",
       "source": "https://www.moh.gov.jm/health-centre-dental-services/",
       "locationVerified": false,
-      "scope": "MOHW dental-services list — not exhaustive"
+      "scope": "MOHW combined Kingston & St Andrew dental-services facility list; individual parish attribution requires confirmation"
     },
     {
       "id": "f-88",
@@ -1441,7 +1441,7 @@ window.WRHA_DATA={
       "address": "",
       "source": "https://www.moh.gov.jm/health-centre-dental-services/",
       "locationVerified": false,
-      "scope": "MOHW dental-services list — not exhaustive"
+      "scope": "MOHW combined Kingston & St Andrew dental-services facility list; individual parish attribution requires confirmation"
     },
     {
       "id": "f-89",
@@ -1453,7 +1453,7 @@ window.WRHA_DATA={
       "address": "",
       "source": "https://www.moh.gov.jm/health-centre-dental-services/",
       "locationVerified": false,
-      "scope": "MOHW dental-services list — not exhaustive"
+      "scope": "MOHW combined Kingston & St Andrew dental-services facility list; individual parish attribution requires confirmation"
     },
     {
       "id": "f-90",
@@ -1465,7 +1465,7 @@ window.WRHA_DATA={
       "address": "",
       "source": "https://www.moh.gov.jm/health-centre-dental-services/",
       "locationVerified": false,
-      "scope": "MOHW dental-services list — not exhaustive"
+      "scope": "MOHW combined Kingston & St Andrew dental-services facility list; individual parish attribution requires confirmation"
     },
     {
       "id": "f-91",
@@ -1477,7 +1477,7 @@ window.WRHA_DATA={
       "address": "",
       "source": "https://www.moh.gov.jm/health-centre-dental-services/",
       "locationVerified": false,
-      "scope": "MOHW dental-services list — not exhaustive"
+      "scope": "MOHW combined Kingston & St Andrew dental-services facility list; individual parish attribution requires confirmation"
     },
     {
       "id": "f-92",
@@ -1489,7 +1489,7 @@ window.WRHA_DATA={
       "address": "",
       "source": "https://www.moh.gov.jm/health-centre-dental-services/",
       "locationVerified": false,
-      "scope": "MOHW dental-services list — not exhaustive"
+      "scope": "MOHW combined Kingston & St Andrew dental-services facility list; individual parish attribution requires confirmation"
     },
     {
       "id": "f-93",
@@ -1501,7 +1501,7 @@ window.WRHA_DATA={
       "address": "",
       "source": "https://www.moh.gov.jm/health-centre-dental-services/",
       "locationVerified": false,
-      "scope": "MOHW dental-services list — not exhaustive"
+      "scope": "MOHW combined Kingston & St Andrew dental-services facility list; individual parish attribution requires confirmation"
     },
     {
       "id": "f-94",
@@ -1513,7 +1513,7 @@ window.WRHA_DATA={
       "address": "",
       "source": "https://www.moh.gov.jm/health-centre-dental-services/",
       "locationVerified": false,
-      "scope": "MOHW dental-services list — not exhaustive"
+      "scope": "MOHW combined Kingston & St Andrew dental-services facility list; individual parish attribution requires confirmation"
     },
     {
       "id": "f-95",
@@ -1525,7 +1525,7 @@ window.WRHA_DATA={
       "address": "",
       "source": "https://www.moh.gov.jm/health-centre-dental-services/",
       "locationVerified": false,
-      "scope": "MOHW dental-services list — not exhaustive"
+      "scope": "MOHW combined Kingston & St Andrew dental-services facility list; individual parish attribution requires confirmation"
     },
     {
       "id": "f-96",
@@ -1537,7 +1537,7 @@ window.WRHA_DATA={
       "address": "",
       "source": "https://www.moh.gov.jm/health-centre-dental-services/",
       "locationVerified": false,
-      "scope": "MOHW dental-services list — not exhaustive"
+      "scope": "MOHW combined Kingston & St Andrew dental-services facility list; individual parish attribution requires confirmation"
     },
     {
       "id": "f-97",
@@ -1549,7 +1549,7 @@ window.WRHA_DATA={
       "address": "",
       "source": "https://www.moh.gov.jm/health-centre-dental-services/",
       "locationVerified": false,
-      "scope": "MOHW dental-services list — not exhaustive"
+      "scope": "MOHW combined Kingston & St Andrew dental-services facility list; individual parish attribution requires confirmation"
     },
     {
       "id": "f-98",
@@ -1561,7 +1561,7 @@ window.WRHA_DATA={
       "address": "",
       "source": "https://www.moh.gov.jm/health-centre-dental-services/",
       "locationVerified": false,
-      "scope": "MOHW dental-services list — not exhaustive"
+      "scope": "MOHW combined Kingston & St Andrew dental-services facility list; individual parish attribution requires confirmation"
     },
     {
       "id": "f-99",
@@ -1573,7 +1573,7 @@ window.WRHA_DATA={
       "address": "",
       "source": "https://www.moh.gov.jm/health-centre-dental-services/",
       "locationVerified": false,
-      "scope": "MOHW dental-services list — not exhaustive"
+      "scope": "MOHW combined Kingston & St Andrew dental-services facility list; individual parish attribution requires confirmation"
     },
     {
       "id": "f-100",
@@ -1805,18 +1805,6 @@ window.WRHA_DATA={
     },
     {
       "id": "f-119",
-      "name": "Alexandria Health Centre",
-      "parish": "St. Ann",
-      "rha": "NERHA",
-      "type": "",
-      "phone": "",
-      "address": "",
-      "source": "https://www.nerha.gov.jm/health-centres",
-      "locationVerified": false,
-      "scope": "Official NERHA/MOHW listed — directory sample"
-    },
-    {
-      "id": "f-120",
       "name": "Bohemia Health Centre",
       "parish": "St. Ann",
       "rha": "NERHA",
@@ -1828,7 +1816,7 @@ window.WRHA_DATA={
       "scope": "Official NERHA/MOHW listed — directory sample"
     },
     {
-      "id": "f-121",
+      "id": "f-120",
       "name": "Clarkesonville Health Centre",
       "parish": "St. Ann",
       "rha": "NERHA",
@@ -1840,7 +1828,7 @@ window.WRHA_DATA={
       "scope": "Official NERHA/MOHW listed — directory sample"
     },
     {
-      "id": "f-122",
+      "id": "f-121",
       "name": "Stepney Health Centre",
       "parish": "St. Ann",
       "rha": "NERHA",
@@ -1852,7 +1840,7 @@ window.WRHA_DATA={
       "scope": "Official NERHA/MOHW listed — directory sample"
     },
     {
-      "id": "f-123",
+      "id": "f-122",
       "name": "Muirhouse Health Centre",
       "parish": "St. Ann",
       "rha": "NERHA",
@@ -1864,7 +1852,7 @@ window.WRHA_DATA={
       "scope": "Official NERHA/MOHW listed — directory sample"
     },
     {
-      "id": "f-124",
+      "id": "f-123",
       "name": "Cascade Health Centre",
       "parish": "St. Ann",
       "rha": "NERHA",
@@ -1876,7 +1864,7 @@ window.WRHA_DATA={
       "scope": "Official NERHA/MOHW listed — directory sample"
     },
     {
-      "id": "f-125",
+      "id": "f-124",
       "name": "Higgins Land Health Centre",
       "parish": "St. Ann",
       "rha": "NERHA",
@@ -1888,7 +1876,7 @@ window.WRHA_DATA={
       "scope": "Official NERHA/MOHW listed — directory sample"
     },
     {
-      "id": "f-126",
+      "id": "f-125",
       "name": "Bamboo Health Centre",
       "parish": "St. Ann",
       "rha": "NERHA",
@@ -1900,7 +1888,7 @@ window.WRHA_DATA={
       "scope": "Official NERHA/MOHW listed — directory sample"
     },
     {
-      "id": "f-127",
+      "id": "f-126",
       "name": "Watt Town Health Centre",
       "parish": "St. Ann",
       "rha": "NERHA",
@@ -1912,7 +1900,7 @@ window.WRHA_DATA={
       "scope": "Official NERHA/MOHW listed — directory sample"
     },
     {
-      "id": "f-128",
+      "id": "f-127",
       "name": "Sturge Town Health Centre",
       "parish": "St. Ann",
       "rha": "NERHA",
@@ -1924,7 +1912,7 @@ window.WRHA_DATA={
       "scope": "Official NERHA/MOHW listed — directory sample"
     },
     {
-      "id": "f-129",
+      "id": "f-128",
       "name": "Gibraltar Health Centre",
       "parish": "St. Ann",
       "rha": "NERHA",
@@ -1936,7 +1924,7 @@ window.WRHA_DATA={
       "scope": "Official NERHA/MOHW listed — directory sample"
     },
     {
-      "id": "f-130",
+      "id": "f-129",
       "name": "Madras Health Centre",
       "parish": "St. Ann",
       "rha": "NERHA",
@@ -1948,7 +1936,7 @@ window.WRHA_DATA={
       "scope": "Official NERHA/MOHW listed — directory sample"
     },
     {
-      "id": "f-131",
+      "id": "f-130",
       "name": "Claremont Health Centre",
       "parish": "St. Ann",
       "rha": "NERHA",
@@ -1960,7 +1948,7 @@ window.WRHA_DATA={
       "scope": "Official NERHA/MOHW listed — directory sample"
     },
     {
-      "id": "f-132",
+      "id": "f-131",
       "name": "Moneague Health Centre",
       "parish": "St. Ann",
       "rha": "NERHA",
@@ -1972,7 +1960,7 @@ window.WRHA_DATA={
       "scope": "Official NERHA/MOHW listed — directory sample"
     },
     {
-      "id": "f-133",
+      "id": "f-132",
       "name": "Spalding Health Centre",
       "parish": "Clarendon",
       "rha": "SRHA",
@@ -1984,7 +1972,7 @@ window.WRHA_DATA={
       "scope": "Official SRHA listed — directory sample"
     },
     {
-      "id": "f-134",
+      "id": "f-133",
       "name": "Moravia Health Centre",
       "parish": "Clarendon",
       "rha": "SRHA",
@@ -1996,7 +1984,7 @@ window.WRHA_DATA={
       "scope": "Official SRHA listed — directory sample"
     },
     {
-      "id": "f-135",
+      "id": "f-134",
       "name": "Aenon Town Health Centre",
       "parish": "Clarendon",
       "rha": "SRHA",
@@ -2008,7 +1996,7 @@ window.WRHA_DATA={
       "scope": "Official SRHA listed — directory sample"
     },
     {
-      "id": "f-136",
+      "id": "f-135",
       "name": "Alston Health Centre",
       "parish": "Clarendon",
       "rha": "SRHA",
@@ -2020,7 +2008,7 @@ window.WRHA_DATA={
       "scope": "Official SRHA listed — directory sample"
     },
     {
-      "id": "f-137",
+      "id": "f-136",
       "name": "Cumberland Health Centre",
       "parish": "Clarendon",
       "rha": "SRHA",
@@ -2032,7 +2020,7 @@ window.WRHA_DATA={
       "scope": "Official SRHA listed — directory sample"
     },
     {
-      "id": "f-138",
+      "id": "f-137",
       "name": "Frankfield Health Centre",
       "parish": "Clarendon",
       "rha": "SRHA",
@@ -2044,7 +2032,7 @@ window.WRHA_DATA={
       "scope": "Official SRHA listed — directory sample"
     },
     {
-      "id": "f-139",
+      "id": "f-138",
       "name": "James Hill Health Centre",
       "parish": "Clarendon",
       "rha": "SRHA",
@@ -2056,7 +2044,7 @@ window.WRHA_DATA={
       "scope": "Official SRHA listed — directory sample"
     },
     {
-      "id": "f-140",
+      "id": "f-139",
       "name": "Crooked River Health Centre",
       "parish": "Clarendon",
       "rha": "SRHA",
@@ -2068,7 +2056,7 @@ window.WRHA_DATA={
       "scope": "Official SRHA listed — directory sample"
     },
     {
-      "id": "f-141",
+      "id": "f-140",
       "name": "Kellits Health Centre",
       "parish": "Clarendon",
       "rha": "SRHA",
@@ -2080,7 +2068,7 @@ window.WRHA_DATA={
       "scope": "Official SRHA listed — directory sample"
     },
     {
-      "id": "f-142",
+      "id": "f-141",
       "name": "Crofts Hill Health Centre",
       "parish": "Clarendon",
       "rha": "SRHA",
@@ -2092,7 +2080,7 @@ window.WRHA_DATA={
       "scope": "Official SRHA listed — directory sample"
     },
     {
-      "id": "f-143",
+      "id": "f-142",
       "name": "Colonel Ridge Health Centre",
       "parish": "Clarendon",
       "rha": "SRHA",
@@ -2104,7 +2092,7 @@ window.WRHA_DATA={
       "scope": "Official SRHA listed — directory sample"
     },
     {
-      "id": "f-144",
+      "id": "f-143",
       "name": "Brandon Hill Health Centre",
       "parish": "Clarendon",
       "rha": "SRHA",
@@ -2116,7 +2104,7 @@ window.WRHA_DATA={
       "scope": "Official SRHA listed — directory sample"
     },
     {
-      "id": "f-145",
+      "id": "f-144",
       "name": "Reckford Health Centre",
       "parish": "Clarendon",
       "rha": "SRHA",
@@ -2128,7 +2116,7 @@ window.WRHA_DATA={
       "scope": "Official SRHA listed — directory sample"
     },
     {
-      "id": "f-146",
+      "id": "f-145",
       "name": "Thompson Town Health Centre",
       "parish": "Clarendon",
       "rha": "SRHA",
@@ -2140,7 +2128,7 @@ window.WRHA_DATA={
       "scope": "Official SRHA listed — directory sample"
     },
     {
-      "id": "f-147",
+      "id": "f-146",
       "name": "Mocho Health Centre",
       "parish": "Clarendon",
       "rha": "SRHA",
@@ -2152,7 +2140,7 @@ window.WRHA_DATA={
       "scope": "Official SRHA listed — directory sample"
     },
     {
-      "id": "f-148",
+      "id": "f-147",
       "name": "Leicesterfield Health Centre",
       "parish": "Clarendon",
       "rha": "SRHA",
@@ -2164,7 +2152,7 @@ window.WRHA_DATA={
       "scope": "Official SRHA listed — directory sample"
     },
     {
-      "id": "f-149",
+      "id": "f-148",
       "name": "Darlow Health Centre",
       "parish": "Clarendon",
       "rha": "SRHA",
@@ -2176,7 +2164,7 @@ window.WRHA_DATA={
       "scope": "Official SRHA listed — directory sample"
     },
     {
-      "id": "f-150",
+      "id": "f-149",
       "name": "Chapleton Health Centre",
       "parish": "Clarendon",
       "rha": "SRHA",
@@ -2188,7 +2176,7 @@ window.WRHA_DATA={
       "scope": "Official SRHA listed — directory sample"
     },
     {
-      "id": "f-151",
+      "id": "f-150",
       "name": "Rock River Health Centre",
       "parish": "Clarendon",
       "rha": "SRHA",
@@ -2200,7 +2188,7 @@ window.WRHA_DATA={
       "scope": "Official SRHA listed — directory sample"
     },
     {
-      "id": "f-152",
+      "id": "f-151",
       "name": "Pennants Health Centre",
       "parish": "Clarendon",
       "rha": "SRHA",
@@ -2212,7 +2200,7 @@ window.WRHA_DATA={
       "scope": "Official SRHA listed — directory sample"
     },
     {
-      "id": "f-153",
+      "id": "f-152",
       "name": "Main Street Health Centre",
       "parish": "Clarendon",
       "rha": "SRHA",
@@ -2224,7 +2212,7 @@ window.WRHA_DATA={
       "scope": "Official SRHA listed — directory sample"
     },
     {
-      "id": "f-154",
+      "id": "f-153",
       "name": "Sandy Bay Health Centre",
       "parish": "Clarendon",
       "rha": "SRHA",
@@ -2236,7 +2224,7 @@ window.WRHA_DATA={
       "scope": "Official SRHA listed — directory sample"
     },
     {
-      "id": "f-155",
+      "id": "f-154",
       "name": "Halse Hall Health Centre",
       "parish": "Clarendon",
       "rha": "SRHA",
@@ -2248,7 +2236,7 @@ window.WRHA_DATA={
       "scope": "Official SRHA listed — directory sample"
     },
     {
-      "id": "f-156",
+      "id": "f-155",
       "name": "May Pen (Denbigh) Health Centre",
       "parish": "Clarendon",
       "rha": "SRHA",
@@ -2260,7 +2248,7 @@ window.WRHA_DATA={
       "scope": "Official SRHA listed — directory sample"
     },
     {
-      "id": "f-157",
+      "id": "f-156",
       "name": "York Town Health Centre",
       "parish": "Clarendon",
       "rha": "SRHA",
@@ -2272,7 +2260,7 @@ window.WRHA_DATA={
       "scope": "Official SRHA listed — directory sample"
     },
     {
-      "id": "f-158",
+      "id": "f-157",
       "name": "Toll Gate Health Centre",
       "parish": "Clarendon",
       "rha": "SRHA",
@@ -2284,7 +2272,7 @@ window.WRHA_DATA={
       "scope": "Official SRHA listed — directory sample"
     },
     {
-      "id": "f-159",
+      "id": "f-158",
       "name": "Lionel Town Health Centre",
       "parish": "Clarendon",
       "rha": "SRHA",
@@ -2296,7 +2284,7 @@ window.WRHA_DATA={
       "scope": "Official SRHA listed — directory sample"
     },
     {
-      "id": "f-160",
+      "id": "f-159",
       "name": "Raymonds Health Centre",
       "parish": "Clarendon",
       "rha": "SRHA",
@@ -2308,7 +2296,7 @@ window.WRHA_DATA={
       "scope": "Official SRHA listed — directory sample"
     },
     {
-      "id": "f-161",
+      "id": "f-160",
       "name": "Mitchell Town Health Centre",
       "parish": "Clarendon",
       "rha": "SRHA",
@@ -2320,7 +2308,7 @@ window.WRHA_DATA={
       "scope": "Official SRHA listed — directory sample"
     },
     {
-      "id": "f-162",
+      "id": "f-161",
       "name": "Rocky Point Health Centre",
       "parish": "Clarendon",
       "rha": "SRHA",
@@ -2332,7 +2320,7 @@ window.WRHA_DATA={
       "scope": "Official SRHA listed — directory sample"
     },
     {
-      "id": "f-163",
+      "id": "f-162",
       "name": "Race Course Health Centre",
       "parish": "Clarendon",
       "rha": "SRHA",
@@ -2344,7 +2332,7 @@ window.WRHA_DATA={
       "scope": "Official SRHA listed — directory sample"
     },
     {
-      "id": "f-164",
+      "id": "f-163",
       "name": "Milk River Health Centre",
       "parish": "Clarendon",
       "rha": "SRHA",
@@ -2356,7 +2344,7 @@ window.WRHA_DATA={
       "scope": "Official SRHA listed — directory sample"
     },
     {
-      "id": "f-165",
+      "id": "f-164",
       "name": "Mandeville Health Centre",
       "parish": "Manchester",
       "rha": "SRHA",
@@ -2368,7 +2356,7 @@ window.WRHA_DATA={
       "scope": "Official SRHA listed — directory sample"
     },
     {
-      "id": "f-166",
+      "id": "f-165",
       "name": "Royal Flat Health Centre",
       "parish": "Manchester",
       "rha": "SRHA",
@@ -2380,7 +2368,7 @@ window.WRHA_DATA={
       "scope": "Official SRHA listed — directory sample"
     },
     {
-      "id": "f-167",
+      "id": "f-166",
       "name": "Lincoln Health Centre",
       "parish": "Manchester",
       "rha": "SRHA",
@@ -2392,7 +2380,7 @@ window.WRHA_DATA={
       "scope": "Official SRHA listed — directory sample"
     },
     {
-      "id": "f-168",
+      "id": "f-167",
       "name": "Porus Health Centre",
       "parish": "Manchester",
       "rha": "SRHA",
@@ -2404,7 +2392,7 @@ window.WRHA_DATA={
       "scope": "Official SRHA listed — directory sample"
     },
     {
-      "id": "f-169",
+      "id": "f-168",
       "name": "Bellefield Health Centre",
       "parish": "Manchester",
       "rha": "SRHA",
@@ -2416,7 +2404,7 @@ window.WRHA_DATA={
       "scope": "Official SRHA listed — directory sample"
     },
     {
-      "id": "f-170",
+      "id": "f-169",
       "name": "Bombay Health Centre",
       "parish": "Manchester",
       "rha": "SRHA",
@@ -2428,7 +2416,7 @@ window.WRHA_DATA={
       "scope": "Official SRHA listed — directory sample"
     },
     {
-      "id": "f-171",
+      "id": "f-170",
       "name": "Broad-leaf Health Centre",
       "parish": "Manchester",
       "rha": "SRHA",
@@ -2440,7 +2428,7 @@ window.WRHA_DATA={
       "scope": "Official SRHA listed — directory sample"
     },
     {
-      "id": "f-172",
+      "id": "f-171",
       "name": "Harmons Health Centre",
       "parish": "Manchester",
       "rha": "SRHA",
@@ -2452,7 +2440,7 @@ window.WRHA_DATA={
       "scope": "Official SRHA listed — directory sample"
     },
     {
-      "id": "f-173",
+      "id": "f-172",
       "name": "Cross Keys Health Centre",
       "parish": "Manchester",
       "rha": "SRHA",
@@ -2464,7 +2452,7 @@ window.WRHA_DATA={
       "scope": "Official SRHA listed — directory sample"
     },
     {
-      "id": "f-174",
+      "id": "f-173",
       "name": "Downs Health Centre",
       "parish": "Manchester",
       "rha": "SRHA",
@@ -2476,7 +2464,7 @@ window.WRHA_DATA={
       "scope": "Official SRHA listed — directory sample"
     },
     {
-      "id": "f-175",
+      "id": "f-174",
       "name": "Newport Health Centre",
       "parish": "Manchester",
       "rha": "SRHA",
@@ -2488,7 +2476,7 @@ window.WRHA_DATA={
       "scope": "Official SRHA listed — directory sample"
     },
     {
-      "id": "f-176",
+      "id": "f-175",
       "name": "Pratville Health Centre",
       "parish": "Manchester",
       "rha": "SRHA",
@@ -2500,7 +2488,7 @@ window.WRHA_DATA={
       "scope": "Official SRHA listed — directory sample"
     },
     {
-      "id": "f-177",
+      "id": "f-176",
       "name": "Old England Health Centre",
       "parish": "Manchester",
       "rha": "SRHA",
@@ -2512,7 +2500,7 @@ window.WRHA_DATA={
       "scope": "Official SRHA listed — directory sample"
     },
     {
-      "id": "f-178",
+      "id": "f-177",
       "name": "Junction Health Centre",
       "parish": "St. Elizabeth",
       "rha": "SRHA",
@@ -2524,7 +2512,7 @@ window.WRHA_DATA={
       "scope": "MOHW dental-services list — not exhaustive"
     },
     {
-      "id": "f-179",
+      "id": "f-178",
       "name": "Southfield Health Centre",
       "parish": "St. Elizabeth",
       "rha": "SRHA",
@@ -2536,7 +2524,7 @@ window.WRHA_DATA={
       "scope": "MOHW dental-services list — not exhaustive"
     },
     {
-      "id": "f-180",
+      "id": "f-179",
       "name": "Black River Health Centre",
       "parish": "St. Elizabeth",
       "rha": "SRHA",
@@ -2548,7 +2536,7 @@ window.WRHA_DATA={
       "scope": "MOHW dental-services list — not exhaustive"
     },
     {
-      "id": "f-181",
+      "id": "f-180",
       "name": "Maggotty Health Centre",
       "parish": "St. Elizabeth",
       "rha": "SRHA",
@@ -2560,7 +2548,7 @@ window.WRHA_DATA={
       "scope": "MOHW dental-services list — not exhaustive"
     },
     {
-      "id": "f-182",
+      "id": "f-181",
       "name": "Santa Cruz Health Centre",
       "parish": "St. Elizabeth",
       "rha": "SRHA",
@@ -2572,7 +2560,7 @@ window.WRHA_DATA={
       "scope": "MOHW dental-services list — not exhaustive"
     },
     {
-      "id": "f-183",
+      "id": "f-182",
       "name": "Balaclava Health Centre",
       "parish": "St. Elizabeth",
       "rha": "SRHA",
@@ -2582,6 +2570,390 @@ window.WRHA_DATA={
       "source": "https://www.moh.gov.jm/health-centre-dental-services/",
       "locationVerified": false,
       "scope": "MOHW dental-services list — not exhaustive"
+    },
+    {
+      "id": "f-183",
+      "name": "Borobridge Health Centre",
+      "parish": "St. Ann",
+      "rha": "NERHA",
+      "type": "",
+      "phone": "",
+      "address": "",
+      "source": "https://www.nerha.gov.jm/health-centres",
+      "locationVerified": false,
+      "scope": "NERHA published facility or programme schedule; current operating status to verify"
+    },
+    {
+      "id": "f-184",
+      "name": "Beecher Town Health Centre",
+      "parish": "St. Ann",
+      "rha": "NERHA",
+      "type": "",
+      "phone": "",
+      "address": "",
+      "source": "https://www.nerha.gov.jm/health-centres",
+      "locationVerified": false,
+      "scope": "NERHA published facility or programme schedule; current operating status to verify"
+    },
+    {
+      "id": "f-185",
+      "name": "McNie Health Centre",
+      "parish": "St. Ann",
+      "rha": "NERHA",
+      "type": "",
+      "phone": "",
+      "address": "",
+      "source": "https://www.nerha.gov.jm/health-centres",
+      "locationVerified": false,
+      "scope": "NERHA published facility or programme schedule; current operating status to verify"
+    },
+    {
+      "id": "f-186",
+      "name": "Blackstonedge Health Centre",
+      "parish": "St. Ann",
+      "rha": "NERHA",
+      "type": "",
+      "phone": "",
+      "address": "",
+      "source": "https://www.nerha.gov.jm/health-centres",
+      "locationVerified": false,
+      "scope": "NERHA published facility or programme schedule; current operating status to verify"
+    },
+    {
+      "id": "f-187",
+      "name": "Bensonton Health Centre",
+      "parish": "St. Ann",
+      "rha": "NERHA",
+      "type": "",
+      "phone": "",
+      "address": "",
+      "source": "https://www.nerha.gov.jm/health-centres",
+      "locationVerified": false,
+      "scope": "NERHA published facility or programme schedule; current operating status to verify"
+    },
+    {
+      "id": "f-188",
+      "name": "Jeffreyville Health Centre",
+      "parish": "St. Ann",
+      "rha": "NERHA",
+      "type": "",
+      "phone": "",
+      "address": "",
+      "source": "https://www.nerha.gov.jm/health-centres",
+      "locationVerified": false,
+      "scope": "NERHA published facility or programme schedule; current operating status to verify"
+    },
+    {
+      "id": "f-189",
+      "name": "Exchange Health Centre",
+      "parish": "St. Ann",
+      "rha": "NERHA",
+      "type": "",
+      "phone": "",
+      "address": "",
+      "source": "https://www.nerha.gov.jm/health-centres",
+      "locationVerified": false,
+      "scope": "NERHA published facility or programme schedule; current operating status to verify"
+    },
+    {
+      "id": "f-190",
+      "name": "Walkerswood Health Centre",
+      "parish": "St. Ann",
+      "rha": "NERHA",
+      "type": "",
+      "phone": "",
+      "address": "",
+      "source": "https://www.nerha.gov.jm/health-centres",
+      "locationVerified": false,
+      "scope": "NERHA published facility or programme schedule; current operating status to verify"
+    },
+    {
+      "id": "f-191",
+      "name": "Lime Hall Health Centre",
+      "parish": "St. Ann",
+      "rha": "NERHA",
+      "type": "",
+      "phone": "",
+      "address": "",
+      "source": "https://www.nerha.gov.jm/health-centres",
+      "locationVerified": false,
+      "scope": "NERHA published facility or programme schedule; current operating status to verify"
+    },
+    {
+      "id": "f-192",
+      "name": "Runaway Bay Health Centre",
+      "parish": "St. Ann",
+      "rha": "NERHA",
+      "type": "",
+      "phone": "",
+      "address": "",
+      "source": "https://www.nerha.gov.jm/health-centres",
+      "locationVerified": false,
+      "scope": "NERHA published facility or programme schedule; current operating status to verify"
+    },
+    {
+      "id": "f-193",
+      "name": "Queenhyte Health Centre",
+      "parish": "St. Ann",
+      "rha": "NERHA",
+      "type": "",
+      "phone": "",
+      "address": "",
+      "source": "https://www.nerha.gov.jm/health-centres",
+      "locationVerified": false,
+      "scope": "NERHA published facility or programme schedule; current operating status to verify"
+    },
+    {
+      "id": "f-194",
+      "name": "Steer Town Health Centre",
+      "parish": "St. Ann",
+      "rha": "NERHA",
+      "type": "",
+      "phone": "",
+      "address": "",
+      "source": "https://www.nerha.gov.jm/health-centres",
+      "locationVerified": false,
+      "scope": "NERHA published facility or programme schedule; current operating status to verify"
+    },
+    {
+      "id": "f-195",
+      "name": "Retreat Health Centre",
+      "parish": "St. Mary",
+      "rha": "NERHA",
+      "type": "",
+      "phone": "",
+      "address": "",
+      "source": "https://www.nerha.gov.jm/health-promotion",
+      "locationVerified": false,
+      "scope": "NERHA published facility or programme schedule; current operating status to verify"
+    },
+    {
+      "id": "f-196",
+      "name": "Gayle Health Centre",
+      "parish": "St. Mary",
+      "rha": "NERHA",
+      "type": "",
+      "phone": "",
+      "address": "",
+      "source": "https://www.nerha.gov.jm/health-promotion",
+      "locationVerified": false,
+      "scope": "NERHA published facility or programme schedule; current operating status to verify"
+    },
+    {
+      "id": "f-197",
+      "name": "Oracabessa Health Centre",
+      "parish": "St. Mary",
+      "rha": "NERHA",
+      "type": "",
+      "phone": "",
+      "address": "",
+      "source": "https://www.nerha.gov.jm/health-promotion",
+      "locationVerified": false,
+      "scope": "NERHA published facility or programme schedule; current operating status to verify"
+    },
+    {
+      "id": "f-198",
+      "name": "Islington Health Centre",
+      "parish": "St. Mary",
+      "rha": "NERHA",
+      "type": "",
+      "phone": "",
+      "address": "",
+      "source": "https://www.nerha.gov.jm/health-promotion",
+      "locationVerified": false,
+      "scope": "NERHA published facility or programme schedule; current operating status to verify"
+    },
+    {
+      "id": "f-199",
+      "name": "Caron Hall Health Centre",
+      "parish": "St. Mary",
+      "rha": "NERHA",
+      "type": "",
+      "phone": "",
+      "address": "",
+      "source": "https://www.nerha.gov.jm/health-promotion",
+      "locationVerified": false,
+      "scope": "NERHA published facility or programme schedule; current operating status to verify"
+    },
+    {
+      "id": "f-200",
+      "name": "Castleton Health Centre",
+      "parish": "St. Mary",
+      "rha": "NERHA",
+      "type": "",
+      "phone": "",
+      "address": "",
+      "source": "https://www.nerha.gov.jm/health-promotion",
+      "locationVerified": false,
+      "scope": "NERHA published facility or programme schedule; current operating status to verify"
+    },
+    {
+      "id": "f-201",
+      "name": "Enfield Health Centre",
+      "parish": "St. Mary",
+      "rha": "NERHA",
+      "type": "",
+      "phone": "",
+      "address": "",
+      "source": "https://www.nerha.gov.jm/health-promotion",
+      "locationVerified": false,
+      "scope": "NERHA published facility or programme schedule; current operating status to verify"
+    },
+    {
+      "id": "f-202",
+      "name": "Long Road Health Centre",
+      "parish": "St. Mary",
+      "rha": "NERHA",
+      "type": "",
+      "phone": "",
+      "address": "",
+      "source": "https://www.nerha.gov.jm/health-promotion",
+      "locationVerified": false,
+      "scope": "NERHA published facility or programme schedule; current operating status to verify"
+    },
+    {
+      "id": "f-203",
+      "name": "Rock River Health Centre",
+      "parish": "St. Mary",
+      "rha": "NERHA",
+      "type": "",
+      "phone": "",
+      "address": "",
+      "source": "https://www.nerha.gov.jm/health-promotion",
+      "locationVerified": false,
+      "scope": "NERHA published facility or programme schedule; current operating status to verify"
+    },
+    {
+      "id": "f-204",
+      "name": "Fellowship Hall Health Centre",
+      "parish": "St. Mary",
+      "rha": "NERHA",
+      "type": "",
+      "phone": "",
+      "address": "",
+      "source": "https://www.nerha.gov.jm/health-promotion",
+      "locationVerified": false,
+      "scope": "NERHA published facility or programme schedule; current operating status to verify"
+    },
+    {
+      "id": "f-205",
+      "name": "Belfield Health Centre",
+      "parish": "St. Mary",
+      "rha": "NERHA",
+      "type": "",
+      "phone": "",
+      "address": "",
+      "source": "https://www.nerha.gov.jm/health-promotion",
+      "locationVerified": false,
+      "scope": "NERHA published facility or programme schedule; current operating status to verify"
+    },
+    {
+      "id": "f-206",
+      "name": "Windsor Castle Health Centre",
+      "parish": "St. Mary",
+      "rha": "NERHA",
+      "type": "",
+      "phone": "",
+      "address": "",
+      "source": "https://www.nerha.gov.jm/health-promotion",
+      "locationVerified": false,
+      "scope": "NERHA published facility or programme schedule; current operating status to verify"
+    },
+    {
+      "id": "f-207",
+      "name": "Oxford Health Centre",
+      "parish": "St. Mary",
+      "rha": "NERHA",
+      "type": "",
+      "phone": "",
+      "address": "",
+      "source": "https://www.nerha.gov.jm/health-promotion",
+      "locationVerified": false,
+      "scope": "NERHA published facility or programme schedule; current operating status to verify"
+    },
+    {
+      "id": "f-208",
+      "name": "Hope Bay Health Centre",
+      "parish": "Portland",
+      "rha": "NERHA",
+      "type": "",
+      "phone": "",
+      "address": "",
+      "source": "https://www.nerha.gov.jm/health-promotion",
+      "locationVerified": false,
+      "scope": "NERHA published facility or programme schedule; current operating status to verify"
+    },
+    {
+      "id": "f-209",
+      "name": "Fruitful Vale Health Centre",
+      "parish": "Portland",
+      "rha": "NERHA",
+      "type": "",
+      "phone": "",
+      "address": "",
+      "source": "https://www.nerha.gov.jm/health-promotion",
+      "locationVerified": false,
+      "scope": "NERHA published facility or programme schedule; current operating status to verify"
+    },
+    {
+      "id": "f-210",
+      "name": "Manchioneal Health Centre",
+      "parish": "Portland",
+      "rha": "NERHA",
+      "type": "",
+      "phone": "",
+      "address": "",
+      "source": "https://www.nerha.gov.jm/health-promotion",
+      "locationVerified": false,
+      "scope": "NERHA published facility or programme schedule; current operating status to verify"
+    },
+    {
+      "id": "f-211",
+      "name": "Mount Pleasant Health Centre",
+      "parish": "Portland",
+      "rha": "NERHA",
+      "type": "",
+      "phone": "",
+      "address": "",
+      "source": "https://www.nerha.gov.jm/health-promotion",
+      "locationVerified": false,
+      "scope": "NERHA published facility or programme schedule; current operating status to verify"
+    },
+    {
+      "id": "f-212",
+      "name": "Fairy Hill Health Centre",
+      "parish": "Portland",
+      "rha": "NERHA",
+      "type": "",
+      "phone": "",
+      "address": "",
+      "source": "https://www.nerha.gov.jm/health-promotion",
+      "locationVerified": false,
+      "scope": "NERHA published facility or programme schedule; current operating status to verify"
+    },
+    {
+      "id": "f-213",
+      "name": "Bangor Ridge Health Centre",
+      "parish": "Portland",
+      "rha": "NERHA",
+      "type": "",
+      "phone": "",
+      "address": "",
+      "source": "https://www.nerha.gov.jm/health-promotion",
+      "locationVerified": false,
+      "scope": "NERHA published facility or programme schedule; current operating status to verify"
+    },
+    {
+      "id": "f-214",
+      "name": "Cascade Health Centre",
+      "parish": "Portland",
+      "rha": "NERHA",
+      "type": "",
+      "phone": "",
+      "address": "",
+      "source": "https://www.nerha.gov.jm/health-promotion",
+      "locationVerified": false,
+      "scope": "NERHA published facility or programme schedule; current operating status to verify"
     }
   ],
   "rhaMap": {
@@ -2606,8 +2978,8 @@ window.WRHA_DATA={
     "Trelawny": "https://www.wrha.gov.jm/health-facilities/trelawny/",
     "Westmoreland": "https://www.wrha.gov.jm/health-facilities/westmoreland/",
     "St. Ann": "https://www.nerha.gov.jm/health-centres",
-    "St. Mary": "https://www.moh.gov.jm/health-centre-dental-services/",
-    "Portland": "https://www.moh.gov.jm/health-centre-dental-services/",
+    "St. Mary": "https://www.nerha.gov.jm/health-promotion",
+    "Portland": "https://www.nerha.gov.jm/health-promotion",
     "Kingston": "https://www.moh.gov.jm/health-centre-dental-services/",
     "St. Andrew": "https://www.moh.gov.jm/health-centre-dental-services/",
     "St. Catherine": "https://www.moh.gov.jm/health-centre-dental-services/",
