@@ -1,4 +1,4 @@
-/* WRHA Manual & Resource Hub — curated public-source records, 12 Nov 2026 */
+/* WRHA Manual & Resource Hub — public-source records, 12 Nov 2026. Facility coverage incomplete. */
 window.WRHA_DATA={
   "manuals": [
     {
@@ -2707,5 +2707,5 @@ window.WRHA_DATA={
     }
   ],
   "updated": "2026-11-12",
-  "directoryCaveat": "A verified starter directory, not an exhaustive national register. WRHA entries use official parish lists; other parishes are partial published subsets. Missing facility coordinates are deliberately not invented."
+  "directoryCaveat": "A partial, source-linked directory. WRHA records are transcribed from official parish tables; published entries from other regions are incomplete subsets. Facility coordinates are not independently verified. Confirm current facility operation, service and location with the relevant health authority."
 };
