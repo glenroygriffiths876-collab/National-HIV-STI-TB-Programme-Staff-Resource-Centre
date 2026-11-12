@@ -1,4 +1,4 @@
-/* WRHA Manual & Resource Hub — public-source records, 12 Nov 2026. Facility coverage incomplete. */
+/* WRHA Manual & Resource Hub — source-linked catalogue. Version verification is ongoing. */
 window.WRHA_DATA={
   "manuals": [
     {
@@ -288,6 +288,102 @@ window.WRHA_DATA={
       "status": "Version review needed",
       "local": true,
       "description": "Existing resource preserved from the original library. Check authorised use and latest version before applying guidance."
+    },
+    {
+      "id": "mohw-extended-1",
+      "title": "Expanded Programme on Immunization Field Guide for Health Workers, Vol. 1: Vaccine Administration and Programme Management",
+      "category": "Immunisation",
+      "year": 2024,
+      "url": "https://www.moh.gov.jm/wp-content/uploads/2025/05/EPI-Field-Guide-For-Health-Workers-Volume-1-Vaccine-Administration-and-Programme-Management-Jan-2024.pdf",
+      "sourceUrl": "https://www.moh.gov.jm/mp-resources/",
+      "status": "Official PDF located",
+      "description": "MOHW immunisation field guide; January 2024.",
+      "publisher": "Ministry of Health & Wellness, Jamaica",
+      "local": false
+    },
+    {
+      "id": "mohw-extended-2",
+      "title": "Expanded Programme on Immunization Field Guide for Health Workers, Vol. 2: Cold Chain and Vaccine Logistics Management",
+      "category": "Immunisation",
+      "year": 2023,
+      "url": "https://www.moh.gov.jm/wp-content/uploads/2024/10/EPI-Field-Guide-For-Health-Workers-Vol-2-Cold-Chain-and-Vaccine-Logistics-Management-Nov2023.pdf",
+      "sourceUrl": "https://www.moh.gov.jm/mp-resources/",
+      "status": "Official PDF located",
+      "description": "MOHW cold chain and logistics field guide; November 2023.",
+      "publisher": "Ministry of Health & Wellness, Jamaica",
+      "local": false
+    },
+    {
+      "id": "mohw-extended-3",
+      "title": "Expanded Programme on Immunization Field Guide for Health Workers, Vol. 3: Surveillance of ESAVIs and VPDs",
+      "category": "Immunisation",
+      "year": null,
+      "url": "https://www.moh.gov.jm/wp-content/uploads/2025/05/Expanded-Programme-on-Immunization-Field-Guide-for-Health-Workers-Volume-3-Surveillance-of-ESAVIs-and-VPDs.pdf",
+      "sourceUrl": "https://www.moh.gov.jm/mp-resources/",
+      "status": "Edition review needed",
+      "description": "MOHW guidance on vaccine safety events and vaccine-preventable disease surveillance.",
+      "publisher": "Ministry of Health & Wellness, Jamaica",
+      "local": false
+    },
+    {
+      "id": "mohw-extended-4",
+      "title": "Protocol for the Nutritional Management of Non-Communicable Diseases in Jamaica",
+      "category": "Nutrition & Dietetics",
+      "year": null,
+      "url": "https://www.moh.gov.jm/wp-content/uploads/2020/05/Protocol-for-the-Nutritional-Management-of-Non-communicable-Diseases-in-Jamaica.pdf",
+      "sourceUrl": "https://www.moh.gov.jm/mp-resources/",
+      "status": "Edition review needed",
+      "description": "National nutritional management protocol for NCD care.",
+      "publisher": "Ministry of Health & Wellness, Jamaica",
+      "local": false
+    },
+    {
+      "id": "mohw-extended-5",
+      "title": "Postpartum Haemorrhage Management Protocol",
+      "category": "Maternal & Child Health",
+      "year": null,
+      "url": "https://www.moh.gov.jm/wp-content/uploads/2021/08/MOHW-PPH-Management-Protocol-Final-for-circulation.pdf",
+      "sourceUrl": "https://www.moh.gov.jm/mp-resources/",
+      "status": "Edition review needed",
+      "description": "MOHW postpartum haemorrhage response and care protocol.",
+      "publisher": "Ministry of Health & Wellness, Jamaica",
+      "local": false
+    },
+    {
+      "id": "mohw-extended-6",
+      "title": "National Screening Guidelines for Priority Non-Communicable Diseases in Primary Health Care",
+      "category": "Non-Communicable Diseases",
+      "year": null,
+      "url": "https://www.moh.gov.jm/wp-content/uploads/2021/03/National-Screening-Guidelines-for-Priority-Non-Communicable-Diseases-NCDs-in-Primary-Health-Care.pdf",
+      "sourceUrl": "https://www.moh.gov.jm/mp-resources/",
+      "status": "Edition review needed",
+      "description": "NCD screening guidance for primary healthcare workers.",
+      "publisher": "Ministry of Health & Wellness, Jamaica",
+      "local": false
+    },
+    {
+      "id": "mohw-extended-7",
+      "title": "Management of Interpersonal Violence: Procedures for Healthcare Workers",
+      "category": "Clinical Care & Hospital Services",
+      "year": 2022,
+      "url": "https://www.moh.gov.jm/wp-content/uploads/2022/12/Management-of-Interpersonal-Violence-Procedures-for-Healthcare-Workers-2022.pdf",
+      "sourceUrl": "https://www.moh.gov.jm/mp-resources/",
+      "status": "Official PDF located",
+      "description": "MOHW procedures for handling interpersonal violence in healthcare settings.",
+      "publisher": "Ministry of Health & Wellness, Jamaica",
+      "local": false
+    },
+    {
+      "id": "mohw-extended-8",
+      "title": "List of Vital, Essential and Necessary Drugs and Medical Sundries for Public Health Institutions",
+      "category": "Pharmacy & Medicines",
+      "year": 2020,
+      "url": "https://www.moh.gov.jm/wp-content/uploads/2024/09/Ven-List-Book-2020.pdf",
+      "sourceUrl": "https://www.moh.gov.jm/mp-resources/",
+      "status": "Edition review needed",
+      "description": "Historic VEN list; verify applicability and more recent approved lists before using.",
+      "publisher": "Ministry of Health & Wellness, Jamaica",
+      "local": false
     }
   ],
   "facilities": [
