@@ -1,4 +1,4 @@
-/* WRHA Manual & Resource Hub — public-source records. Facility coverage incomplete. */
+/* WRHA Manual & Resource Hub — public-source records, 12 Nov 2026; directory not exhaustive */
 window.WRHA_DATA={
   "manuals": [
     {
@@ -2954,6 +2954,246 @@ window.WRHA_DATA={
       "source": "https://www.nerha.gov.jm/health-promotion",
       "locationVerified": false,
       "scope": "NERHA published facility or programme schedule; current operating status to verify"
+    },
+    {
+      "id": "f-215",
+      "name": "Aberdeen Health Centre",
+      "parish": "St. Elizabeth",
+      "rha": "SRHA",
+      "type": "",
+      "phone": "",
+      "address": "",
+      "source": "https://www.srha.gov.jm/contact.php",
+      "locationVerified": false,
+      "scope": "SRHA official health-centre district listing; exact operating status to verify"
+    },
+    {
+      "id": "f-216",
+      "name": "Fyffes Pen Health Centre",
+      "parish": "St. Elizabeth",
+      "rha": "SRHA",
+      "type": "",
+      "phone": "",
+      "address": "",
+      "source": "https://www.srha.gov.jm/contact.php",
+      "locationVerified": false,
+      "scope": "SRHA official health-centre district listing; exact operating status to verify"
+    },
+    {
+      "id": "f-217",
+      "name": "Prospect Health Centre",
+      "parish": "St. Elizabeth",
+      "rha": "SRHA",
+      "type": "",
+      "phone": "",
+      "address": "",
+      "source": "https://www.srha.gov.jm/contact.php",
+      "locationVerified": false,
+      "scope": "SRHA official health-centre district listing; exact operating status to verify"
+    },
+    {
+      "id": "f-218",
+      "name": "New Market Health Centre",
+      "parish": "St. Elizabeth",
+      "rha": "SRHA",
+      "type": "",
+      "phone": "",
+      "address": "",
+      "source": "https://www.srha.gov.jm/contact.php",
+      "locationVerified": false,
+      "scope": "SRHA official health-centre district listing; exact operating status to verify"
+    },
+    {
+      "id": "f-219",
+      "name": "Springfield Health Centre",
+      "parish": "St. Elizabeth",
+      "rha": "SRHA",
+      "type": "",
+      "phone": "",
+      "address": "",
+      "source": "https://www.srha.gov.jm/contact.php",
+      "locationVerified": false,
+      "scope": "SRHA official health-centre district listing; exact operating status to verify"
+    },
+    {
+      "id": "f-220",
+      "name": "Ginger Hill Health Centre",
+      "parish": "St. Elizabeth",
+      "rha": "SRHA",
+      "type": "",
+      "phone": "",
+      "address": "",
+      "source": "https://www.srha.gov.jm/contact.php",
+      "locationVerified": false,
+      "scope": "SRHA official health-centre district listing; exact operating status to verify"
+    },
+    {
+      "id": "f-221",
+      "name": "Middle Quarters Health Centre",
+      "parish": "St. Elizabeth",
+      "rha": "SRHA",
+      "type": "",
+      "phone": "",
+      "address": "",
+      "source": "https://www.srha.gov.jm/contact.php",
+      "locationVerified": false,
+      "scope": "SRHA official health-centre district listing; exact operating status to verify"
+    },
+    {
+      "id": "f-222",
+      "name": "Malvern Health Centre",
+      "parish": "St. Elizabeth",
+      "rha": "SRHA",
+      "type": "",
+      "phone": "",
+      "address": "",
+      "source": "https://www.srha.gov.jm/contact.php",
+      "locationVerified": false,
+      "scope": "SRHA official health-centre district listing; exact operating status to verify"
+    },
+    {
+      "id": "f-223",
+      "name": "Portsea Health Centre",
+      "parish": "St. Elizabeth",
+      "rha": "SRHA",
+      "type": "",
+      "phone": "",
+      "address": "",
+      "source": "https://www.srha.gov.jm/contact.php",
+      "locationVerified": false,
+      "scope": "SRHA official health-centre district listing; exact operating status to verify"
+    },
+    {
+      "id": "f-224",
+      "name": "Pepper Health Centre",
+      "parish": "St. Elizabeth",
+      "rha": "SRHA",
+      "type": "",
+      "phone": "",
+      "address": "",
+      "source": "https://www.srha.gov.jm/contact.php",
+      "locationVerified": false,
+      "scope": "SRHA official health-centre district listing; exact operating status to verify"
+    },
+    {
+      "id": "f-225",
+      "name": "Myersville Health Centre",
+      "parish": "St. Elizabeth",
+      "rha": "SRHA",
+      "type": "",
+      "phone": "",
+      "address": "",
+      "source": "https://www.srha.gov.jm/contact.php",
+      "locationVerified": false,
+      "scope": "SRHA official health-centre district listing; exact operating status to verify"
+    },
+    {
+      "id": "f-226",
+      "name": "Braes River Health Centre",
+      "parish": "St. Elizabeth",
+      "rha": "SRHA",
+      "type": "",
+      "phone": "",
+      "address": "",
+      "source": "https://www.srha.gov.jm/contact.php",
+      "locationVerified": false,
+      "scope": "SRHA official health-centre district listing; exact operating status to verify"
+    },
+    {
+      "id": "f-227",
+      "name": "Lacovia Health Centre",
+      "parish": "St. Elizabeth",
+      "rha": "SRHA",
+      "type": "",
+      "phone": "",
+      "address": "",
+      "source": "https://www.srha.gov.jm/contact.php",
+      "locationVerified": false,
+      "scope": "SRHA official health-centre district listing; exact operating status to verify"
+    },
+    {
+      "id": "f-228",
+      "name": "Burnt Savannah Health Centre",
+      "parish": "St. Elizabeth",
+      "rha": "SRHA",
+      "type": "",
+      "phone": "",
+      "address": "",
+      "source": "https://www.srha.gov.jm/contact.php",
+      "locationVerified": false,
+      "scope": "SRHA official health-centre district listing; exact operating status to verify"
+    },
+    {
+      "id": "f-229",
+      "name": "Bellevue Health Centre",
+      "parish": "St. Elizabeth",
+      "rha": "SRHA",
+      "type": "",
+      "phone": "",
+      "address": "",
+      "source": "https://www.srha.gov.jm/contact.php",
+      "locationVerified": false,
+      "scope": "SRHA official health-centre district listing; exact operating status to verify"
+    },
+    {
+      "id": "f-230",
+      "name": "Mile Gully Health Centre",
+      "parish": "Manchester",
+      "rha": "SRHA",
+      "type": "",
+      "phone": "",
+      "address": "",
+      "source": "https://www.srha.gov.jm/contact.php",
+      "locationVerified": false,
+      "scope": "SRHA official health-centre district listing; exact operating status to verify"
+    },
+    {
+      "id": "f-231",
+      "name": "Harrywatch Health Centre",
+      "parish": "Manchester",
+      "rha": "SRHA",
+      "type": "",
+      "phone": "",
+      "address": "",
+      "source": "https://www.srha.gov.jm/contact.php",
+      "locationVerified": false,
+      "scope": "SRHA official health-centre district listing; exact operating status to verify"
+    },
+    {
+      "id": "f-232",
+      "name": "Christiana Health Centre",
+      "parish": "Manchester",
+      "rha": "SRHA",
+      "type": "",
+      "phone": "",
+      "address": "",
+      "source": "https://www.srha.gov.jm/contact.php",
+      "locationVerified": false,
+      "scope": "SRHA official health-centre district listing; exact operating status to verify"
+    },
+    {
+      "id": "f-233",
+      "name": "Devon Health Centre",
+      "parish": "Manchester",
+      "rha": "SRHA",
+      "type": "",
+      "phone": "",
+      "address": "",
+      "source": "https://www.srha.gov.jm/contact.php",
+      "locationVerified": false,
+      "scope": "SRHA published facility listing — services operate from another site; confirm before visiting"
+    },
+    {
+      "id": "f-234",
+      "name": "Craighead Health Centre",
+      "parish": "Manchester",
+      "rha": "SRHA",
+      "type": "",
+      "phone": "",
+      "address": "",
+      "source": "https://www.srha.gov.jm/contact.php",
+      "locationVerified": false,
+      "scope": "SRHA official health-centre district listing; exact operating status to verify"
     }
   ],
   "rhaMap": {
